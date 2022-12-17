@@ -1,2 +1,2 @@
-# repackaging-in-third-party-android-marketplaces
-Repackaging in Third-Party Android Marketplaces
+# Repackaging in Third-Party Android Marketplaces
+Project detects a repackaged android application.
